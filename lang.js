@@ -674,6 +674,10 @@ addLangs({
 	'switch format warn': 'Passando alla modalità Testo verrà persa tutta la formattazione HTML. Procedo ?',
 	'confirm delete permanently company': 'Confermi la cancellazione permanente di questa Società? Nota che saranno cancellati anche tutti i relativi utenti.',
 	'confirm move to trash company': 'Confermi la cancellazione di questa Società? Nota che saranno cancellati anche tutti i relativi utenti.',
+
+  'work week': '5 giorni',
+  'work week view': 'Settimana lavorativa',
+
 	'expand': 'Espandi',
 	'collapse': 'Comprimi',
 	'warning': 'Attenzione',
