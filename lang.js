@@ -677,6 +677,7 @@ addLangs({
 
     'work week': '5 giorni',
     'work week view': 'Settimana lavorativa',
+    'assign contact role on workspace': 'Assegna un ruolo ai contatti di questo progetto',
     'assign roles': 'Assegna ruoli',
     'expand': 'Espandi',
     'collapse': 'Comprimi',
