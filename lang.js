@@ -677,7 +677,7 @@ addLangs({
 
   'work week': '5 giorni',
   'work week view': 'Settimana lavorativa',
-
+    'assign roles': 'Assegna ruoli',
 	'expand': 'Espandi',
 	'collapse': 'Comprimi',
 	'warning': 'Attenzione',
