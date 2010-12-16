@@ -685,5 +685,6 @@ addLangs({
     'new email in conversation text': 'C\\\'è un nuovo messaggio nella conversazione a cui stai rispondendo. Vuoi inviare lo stesso questa mail o prima vuoi vedere il nuovo messaggio?',
     'send anyway': 'Invia comunque',
     'view new email': 'Mostra il nuovo messaggio',
-    'mark spam': 'Marca come SPAM'
+    'mark spam': 'Marca come SPAM',
+    'linked': 'Collegamenti'
 });
