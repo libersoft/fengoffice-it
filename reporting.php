@@ -25,4 +25,10 @@
 	'columns to print desc' => 'Muovi la colonna che vuoi stampare nella casella a destra',
 	'reporting workspace' => 'Progetto',
 	'reporting user' => 'Utente',
+        'columns' => 'Columns',
+        'report pdf options' => 'PDF options',
+        'report pdf page layout' => 'Page layout',
+        'report pdf vertical' => 'Vertical',
+        'report pdf landscape' => 'Landscape',
+        'report font size' => 'Font size',
 ); ?>

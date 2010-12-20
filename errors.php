@@ -120,4 +120,8 @@
 	'mailAccount dnx' => 'Accont email inesistente',
 	'error add contact from user' => 'Non puoi aggiungere contatti dall\'utente.',
 	'zip not supported' => 'ZIP non supportato dal server',
+        'error invalid recipients' => 'Invalid email addresses found in field "{0}": {1}',
+        'no tag specified' => 'No tag specified',
+        'no mailAccount error' => 'Action unavailable. You do not have an email account added.',
+        'content too long not loaded' => 'Previous email content is too long and was not loaded, but will be sent with this email.',
 ); ?>

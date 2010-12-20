@@ -223,4 +223,10 @@
 	'field ProjectWebpages archived_by_id' => 'Archiviato da',
 	'field Projects archived_on' => 'Archiviato il',
 	'field Projects archived_by_id' => 'Archiviato da',
+        'field MailContents received_date' => 'Received date',
+        'field MailContents body' => 'Body',
+        'field MailContents sync' => 'Synchronized',
+        'field ProjectFileRevisions filecontent' => 'File content',
+        'field ProjectTasks object_subtype' => 'Object subtype',
+        'field Users type' => 'Type',
 ); ?>

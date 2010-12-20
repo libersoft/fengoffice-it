@@ -278,4 +278,6 @@ Oggetto: {0}
 	'linked task tab' => 'Attività',
 	'linked event tab' => 'Eventi',
 	'apply assignee to subtasks' => 'Assegna anche le sottoattivit&agrave;',
+        'urgent priority' => 'Urgent',
+        'attachment from email' => 'Attached to email "{0}"',
 ); ?>

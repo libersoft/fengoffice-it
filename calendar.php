@@ -145,4 +145,9 @@
 	'invitation rejected' => 'Invito rifiutato',
 	'week short' => 'Settimana',
 	'week number x' => 'Settimana {0}',
+        'also confirmed attendance' => 'Conferma partecipazione',
+        'awaiting confirmation' => 'In attesa di conferma',
+        'rejected invitation' => 'Non parteciperà',
+        'who' => 'Chi',
+        'what' => 'Cosa',
 ); ?>

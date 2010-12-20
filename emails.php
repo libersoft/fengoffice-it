@@ -185,4 +185,11 @@
 	'subscribed notification milestone desc' => 'Sei stato iscritto al Traguardo \'{0}\' da {1}.',
 	'subscribed notification email' => 'Iscritto all\\\'email \'{0}\'',
 	'subscribed notification email desc' => 'Sei stato iscritto all\\\'email \'{0}\' da {1}.',
+        'sent mails sync' => 'Sent mails synchronization settings \(for IMAP only\)',
+        'connnection security' => 'Connection security',
+        'select folder for outbox' => 'Select your outbox folder',
+        'sync complete' => 'Sinchronization completed',
+        'invalid sync settings' => 'Invalid synchronization settings. Cannot establish a connection with the server',
+        'cant find user' => 'Cannot find the requested user',
+        'cant find account' => 'Cannot find the requested email account',
 ); ?>
