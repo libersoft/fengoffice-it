@@ -127,5 +127,6 @@
         'activity download' => '{1} downloaded {0} {2}',
         'activity checkout' => '{1} checked out {0} {2}',
         'activity checkin' => '{1} checked in {0} {2}',
+        'activity fax' => "{1} ha inviato {2} via fax a {4}",
         'x users' => '{0} users{1}',
 ); ?>
