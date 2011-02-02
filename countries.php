@@ -104,7 +104,7 @@
 	'country iq' => 'Iraq',
 	'country ie' => 'Ireland',
 	'country il' => 'Israel',
-	'country it' => 'Italy',
+	'country it' => 'Italia',
 	'country ci' => 'Ivory Coast',
 	'country jm' => 'Jamaica',
 	'country jp' => 'Japan',

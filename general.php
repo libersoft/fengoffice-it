@@ -208,7 +208,7 @@
         'the' => 'the',
         'email or username' => 'Email o username',
         'assigned to description' => 'Per selezionare il proprietario dell\'email',
-        'workspace and tags' => 'Workspace e Tags',
+        'workspace and tags' => 'Progetti e etichette',
         'minutes ago' => '{0} minuti fa',
         'about hours ago' => 'Circa {0} ore fa',
         'yesterday at' => 'Ieri alle {0}',
