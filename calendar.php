@@ -114,7 +114,7 @@
 	'years' => 'anni',
 	'invitations' => 'Inviti',
 	'pending response' => 'In attesa di risposta',
-	'participate' => 'Aspetterò',
+	'participate' => 'Parteciperò',
 	'no invitations to this event' => 'Nessun invito spedito per questo evento',
 	'duration must be at least 15 minutes' => 'Durata massima 15 minuti',
 	'event dnx' => 'Evento inesistente',
