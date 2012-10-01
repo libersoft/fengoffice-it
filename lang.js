@@ -686,5 +686,7 @@ addLangs({
     'send anyway': 'Invia comunque',
     'view new email': 'Mostra il nuovo messaggio',
     'mark spam': 'Marca come SPAM',
-    'linked': 'Collegamenti'
+    'linked': 'Collegamenti',
+    'add space': 'Aggiungi Progetto',
+    'edit space': 'Modifica'
 });
