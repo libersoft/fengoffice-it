@@ -124,6 +124,7 @@ addLangs({
     'calendar': 'Agenda',
     'tasks': 'Attività',
     'web pages': 'Collegamenti web',
+    'equipments': 'Attrezzature',
     'documents': 'Documenti',
     'account': 'Account',
     'search': 'Cerca',
