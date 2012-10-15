@@ -154,6 +154,9 @@
 	'success add webpage' => 'Il collegamento web è stata aggiunto',
 	'success edit webpage' => 'Il collegamento web è stata aggiornato',
 	'success deleted webpage' => 'Il collegamento web è stata cancellato',
+	'success add equipment' => 'L\'attrezzatura è stata aggiunta',
+	'success edit equipment' => 'L\'attrezzatura è stata aggiornata',
+	'success deleted equipment' => 'L\'attrezzatura è stata cancellata',
 	'success add chart' => 'Il grafico è stato aggiunto',
 	'success edit chart' => 'Il grafico è stato aggiornato',
 	'success delete chart' => 'Il grafico è stato cancellato',
@@ -627,5 +630,6 @@
         'the Projects' => 'the workspace',
         'the ProjectTasks' => 'the task',
         'the ProjectWebpages' => 'the webpage',
+        'the ProjectEquipments' => 'the equipment',
         'the Timeslots' => 'the timeslot',
 ); ?>

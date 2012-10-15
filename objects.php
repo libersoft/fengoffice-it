@@ -95,6 +95,7 @@
         'the task' => 'l\'attività',
         'the milestone' => 'il traguardo',
         'the webpage' => 'il weblink',
+        'the equipment' => 'l\'attrezzatura',
         'the comment' => 'il commento',
         'the user' => 'l\'utente',
         'the project' => 'il progetto',

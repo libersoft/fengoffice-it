@@ -117,6 +117,7 @@
 	'config option name enable_documents_module' => 'Abilita modulo Documenti',
 	'config option name enable_tasks_module' => 'Abilita modulo Attività',
 	'config option name enable_weblinks_module' => 'Abilita modulo Collegamenti Web',
+	'config option name enable_equipments_module' => 'Abilita modulo Attrezzature',
 	'config option name enable_time_module' => 'Abilita modulo Tempo',
 	'config option name enable_reporting_module' => 'Abilita modulo reports',
 	'user ws config category name general' => 'Generale',
